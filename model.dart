@@ -5,4 +5,5 @@ class Class {
   var method;
   var getter;
   var setter;
+  function() {}
 }
